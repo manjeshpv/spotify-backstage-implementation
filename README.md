@@ -25,5 +25,5 @@
 
 ### Microservices
 - [Order Microservice](https://gitlab.com/manjeshpv/backstage-spotify-order-microservice)
-- [Shipping](https://gitlab.com/manjeshpv/backstage-spotify-warehouse-microservice)
+- [Warehouse](https://gitlab.com/manjeshpv/backstage-spotify-warehouse-microservice)
 - [Shipping](https://gitlab.com/manjeshpv/backstage-spotify-shipping-microservice)
