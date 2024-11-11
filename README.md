@@ -21,3 +21,9 @@
 | 2  | Cloud                | On Premise             | AWS                                                  | AWS                           |
 | 3  | Environment Variable | ??                     | Dotenv Vault                                         | ??                            |
 | 4  | AuthZ & AuthN        | ??                     | Auth0                                                | Ory Hydra SSO                 |
+
+
+### Microservices
+- [Order Microservice](https://gitlab.com/manjeshpv/backstage-spotify-order-microservice)
+- [Shipping](https://gitlab.com/manjeshpv/backstage-spotify-warehouse-microservice)
+- [Shipping](https://gitlab.com/manjeshpv/backstage-spotify-shipping-microservice)
