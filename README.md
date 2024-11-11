@@ -16,7 +16,7 @@
 | 12 | Agile                | Jira                   | Jira                                                 |                               |
 |    |                      |                        |                                                      |                               |
 |    |                      |                        |                                                      |                               |
-| #  | Concepts             | Citibank               | Elivaas                                              | Leadschool                    |
+| #  | Concepts             | Company 1              | Company 2                                            | Company 3                    |
 | 1  | Error Reporting      | ??                     | Sentry, OpenObserve                                  | Newrelic, ELK                 |
 | 2  | Cloud                | On Premise             | AWS                                                  | AWS                           |
 | 3  | Environment Variable | ??                     | Dotenv Vault                                         | ??                            |
